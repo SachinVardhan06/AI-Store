@@ -12,7 +12,7 @@ class homepage extends StatefulWidget {
 
 class _homepageState extends State<homepage> {
 
-  final aiurl = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=AIzaSyB12SfSzH9rhyqISX8lLsbIdEE8_udb1IM';
+  final aiurl = 'YOUR API KEY';
   final header={
     'Content-Type': 'application/json'
   };
